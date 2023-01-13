@@ -78,7 +78,7 @@
 | ⬜ Deferred            |                                | 🟦 Live locks       | ⬜ IPC                   |
 | 🟦 Observer            |                                | ⬜ Actor Model      | ⬜ Channel API           |
 | ⬜ Async Collector     |                                | 🟩 C# task          | ⬜ Revealing Constructor |
-| 🟩 Coroutine           |                                |                     |                          |
+| 🟩 Coroutine           |                                |                     | 🟩 Cancelation token          |
 | ⬜ Goroutine           |                                |                     |                          |
 
 ## Node.js and backend
