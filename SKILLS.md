@@ -43,19 +43,20 @@
 | 🟩 Functional programming      | 🟩 Async method       | 🟩 Linked list       | 🟩 Observer              |
 | 🟩 Prototype-based programming | 🟩 Getters, Setters   | 🟩 Doubly list       | 🟩 Facade                |
 | 🟩 Object-oriented programming | 🟩 Public fields      | 🟩 Unrolled list     | 🟩 State                 |
-| ⬜ Object-based programming    | 🟩 Private fields     | 🟩 Circular list     | 🟩 Flyweight             |
+| ⬜ Object-based programming   | 🟩 Private fields     | 🟩 Circular list     | 🟩 Flyweight             |
 | 🟩 Generic programming         | 🟩 Field declarations | 🟩 Trees             | 🟩 Decorator             |
 | 🟦 Concurrent computing        | 🟩 Inheritance        | 🟩 Graphs            |                          |
 | 🟩 Asyncronous programming     | 🟩 Parent class       | 🟦 Functor           |                          |
 | 🟩 Parallel programming        | 🟩 Polymorphism       | 🟦 Functional object |                          |
 | 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
-| ⬜ FRP (Functional-reactive)   | 🟩 Interface          | 🟦 Generator         |                          |
+| ⬜ FRP (Functional-reactive)  | 🟩 Interface          | 🟦 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
-| 🟩 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
-| ⬜ Metaprogramming             | 🟩 instance           |                      |                          |
-| ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
-| 🟩 SOLID                       | ⬜ Reflection         |                      |                          |
+| 🟦 Domain-specific languages   | ⬜ Hidden class      | 🟩 Async Iterator    |                          |
+| 🟩 Multi-paradigm programming  | ⬜ Object form       | 🟩 Atributes          |                          |
+| ⬜ Metaprogramming            | 🟩 instance           |                      |                          |
+| ⬜ Actor model                | ⬜ Introspection     |                      |                          |
+| 🟩 SOLID                       | ⬜ Reflection        |                      |                          |
+|                               | 🟩 Extension methods  |                      |                          |
  
 ## Asynchronous programming
 
@@ -114,10 +115,10 @@
 
 |                      |                              |                               |                         |
 |----------------------|------------------------------|-------------------------------|-------------------------|
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
-|                      |                              |                               |                         |
+| 🟩 Scriptable object    | 🟩 TextMesh Pro               |                               |                         |
+| 🟩 Sprite atlas         | 🟩 Materials                  |                               |                         |
+| 🟩 Scene manager        | 🟩 Unity inspector            |                               |                         |
+| 🟩 Audio mixer          | 🟩 Unity profiler             |                               |                         |
+| 🟩 Package manager      | 🟩 Unity animation            |                               |                         |
+| 🟩 Addressable assets   | 🟩 New Unity input system     |                               |                         |
+| 🟩 Lean Touch           |                              |                               |                         |
